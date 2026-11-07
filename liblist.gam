@@ -1,0 +1,11 @@
+game "Black Mesa Defense"
+game_url ""
+update_url ""
+type multiplayer_only
+secure 0
+gamedll "dlls\hl.dll"
+gamedll_linux "dlls/hl.so"
+startmap "crossfire"
+trainmap ""
+mpentity "info_player_deathmatch"
+fallback_dir "cstrike"
